@@ -1,0 +1,13 @@
+Github command's :
+  - initialize a new repository : git init 
+  - add files to the repository : git add . or git add <file_name> or git add -A
+  - commit the changes : git commit -m "commit message"
+  - to check the branch : git branch
+  - to create a new branch : git branch -b <branch_name>
+  - to switch to a branch : git checkout <branch_name>
+  - to clone a repository : git clone <repository_url>
+  - to push the changes to the remote repository : git push -u origin <branch_name> & git push origin <branch_name>
+  - to pull the changes from the remote repository : git pull origin <branch_name>
+  - to checkout remote url : git remote -v
+  - to add remote url : git remote add origin <repository_url>
+  - to remove remote url : git remote remove origin
