@@ -11,3 +11,7 @@ Github command's :
   - to checkout remote url : git remote -v
   - to add remote url : git remote add origin <repository_url>
   - to remove remote url : git remote remove origin
+  - to delete a branch : git branch -d <branch_name>
+  - to delete a branch with force : git branch -D <branch_name>
+  - to delete a remote branch : git push origin --delete <branch_name>
+  - to delete a local branch : git branch -d <branch_name>
