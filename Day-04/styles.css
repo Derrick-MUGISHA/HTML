@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 20px;
+}
+
+body {
+    background-color: lightblue;
+    opacity: 1.24;
+
+}
+
+
+.division {
+  border: gray solid 1px;
+  padding: 10px;
+  background-color: white;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.5);
+}
+
+.first-children {
+  padding: 5px;
+  color: blueviolet;
+}
+
+#first-children-heading {
+    text-align: center;
+}
+
+#paragraph {
+    font-size: 18px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.second-children {
+   padding: 5px;
+}
+
+
